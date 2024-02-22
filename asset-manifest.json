@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/react-portflio/static/css/main.9013c7ab.css",
+    "main.js": "/react-portflio/static/js/main.faa41631.js",
+    "static/media/1.png": "/react-portflio/static/media/1.47f288d637c6e3196d69.png",
+    "static/media/company3.png": "/react-portflio/static/media/company3.2031f3146bc5412c4dbf.png",
+    "static/media/omar.png": "/react-portflio/static/media/omar.e642e29b25eb1aa9f5cf.png",
+    "static/media/webdesign.png": "/react-portflio/static/media/webdesign.cbf187dd7d577a790742.png",
+    "static/media/4.png": "/react-portflio/static/media/4.135134585121a001408a.png",
+    "static/media/appdesign.png": "/react-portflio/static/media/appdesign.e1486ca527bfc59ff5fd.png",
+    "static/media/3.png": "/react-portflio/static/media/3.f2c60fc3a7ee65258b16.png",
+    "static/media/uidesign.png": "/react-portflio/static/media/uidesign.d5ced4d4cf460e1bc33d.png",
+    "static/media/5.png": "/react-portflio/static/media/5.3f05ea1de5d05c0ff79f.png",
+    "static/media/company2.png": "/react-portflio/static/media/company2.e4fd98f05d021534ac88.png",
+    "static/media/2.png": "/react-portflio/static/media/2.5fe8d95a5b40dd89b2b1.png",
+    "static/media/6.png": "/react-portflio/static/media/6.360a1d6295220341bd77.png",
+    "static/media/company1.png": "/react-portflio/static/media/company1.7ea03dacb86ae918d596.png",
+    "static/media/whatsapp.png": "/react-portflio/static/media/whatsapp.e643811d6b0e953fb62e.png",
+    "static/media/logo-no-background.png": "/react-portflio/static/media/logo-no-background.e7a3683f8bd42fff82b1.png",
+    "static/media/menu1.png": "/react-portflio/static/media/menu1.312d20bac8f95e77c349.png",
+    "static/media/github.png": "/react-portflio/static/media/github.0ad42a887abd1c7b9e0a.png",
+    "static/media/linkedin.png": "/react-portflio/static/media/linkedin.4436647785fcf1005ccf.png",
+    "index.html": "/react-portflio/index.html",
+    "main.9013c7ab.css.map": "/react-portflio/static/css/main.9013c7ab.css.map",
+    "main.faa41631.js.map": "/react-portflio/static/js/main.faa41631.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9013c7ab.css",
+    "static/js/main.faa41631.js"
+  ]
+}
