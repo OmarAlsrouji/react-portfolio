@@ -1,0 +1,74 @@
+.bg {
+    height: 100vh;
+    position: absolute;
+    top: -12rem;
+    right: 0;
+    z-index: -4;
+    object-fit: cover;
+
+}   
+.introContent {
+    height: 100vh;
+    width: 100vw;
+    padding: 2rem;
+    font-size: 3rem;
+    font-weight: 700;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: -5rem;
+}
+.hello {
+    font-size: 1.75rem;
+    font-weight: 100;
+}
+.introName {
+    color: rgb(240, 84, 84);
+}
+.btn {
+    background: white;
+    margin: 1rem 0;
+    padding: 0.75rem 1.5rem;
+    border: none;
+    border-radius: 2rem;
+    font-weight: bold;
+    font-size: small;
+    color: black;
+    width: 8rem;
+}
+.fa-suitcase {
+    object-fit: cover;
+    margin-right: 0.5rem;
+}
+.introPara {
+    font-size: medium;
+    font-weight: 300;
+    margin-top: .5rem;
+
+}
+#intro{
+    height: calc(100vh - 4rem);
+    width: 100vw;
+    max-width: 75rem;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;    
+}
+
+@media screen and (max-width: 840px) {
+    .bg {
+        right:-4vw;     
+    }
+    .introContent {
+        font-size: 5vw;
+        margin-top: -5rem;
+    }
+    .hello {
+        font-size: 4.5vw;
+    }
+}
+@media screen and (max-width:480px) {
+    .bg {
+        right: -30vw;     
+    }
+}
